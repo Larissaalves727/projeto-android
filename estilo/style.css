@@ -57,7 +57,6 @@ header > p{
     font-size: 1.2em;
     color: white;
     width: 500px;
-    text-align: center;
     padding-left: 10px;
     padding-right: 10px;
     margin: auto;
@@ -66,8 +65,9 @@ header > p{
 }
 
 nav{
-    background-color: red /*var(--cor5)*/;
+    background-color: rgb(207, 65, 89) /*var(--cor5)*/;
     padding: 10px;
+    text-align: center;
     box-shadow: 0px 7px 7px rgba( 0, 0, 0, 0.363);
 }
 
